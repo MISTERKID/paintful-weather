@@ -53,7 +53,7 @@ A beautiful and interactive weather application built with React, TypeScript, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/paintful-weather.git
+   git clone https://github.com/MISTERKID/paintful-weather.git
    cd paintful-weather
    ```
 
